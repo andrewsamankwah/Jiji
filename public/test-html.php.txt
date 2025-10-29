@@ -1,0 +1,11 @@
+<?php
+header('Content-Type: text/html');
+?>
+<!DOCTYPE html>
+<html>
+<head><title>HTML Test</title></head>
+<body>
+    <h1>This is HTML</h1>
+    <p>If this shows as styled text, HTML works.</p>
+</body>
+</html>
